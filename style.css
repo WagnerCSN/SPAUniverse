@@ -53,7 +53,7 @@ img{
     align-self: start;
 }
 
-button{
+#button{
     padding: 12px 25px;
     position: absolute;
     border: 2px solid #FFFFFF;
@@ -68,6 +68,12 @@ button{
     text-transform: uppercase;
     margin: 24px 100px;
     cursor:pointer;
+    text-decoration: none;
+}
+
+#button:hover{
+    background: #FFFFFF;
+    color: #02799D;
 }
 
 h1{
