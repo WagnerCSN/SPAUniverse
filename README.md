@@ -36,7 +36,8 @@ SPA Universe does the mapping of the route when clicking on the menu and then di
 
 ## :arrow_forward: Deploy  
 
-![Uploading SpaceCream.gif…](https://user-images.githubusercontent.com/119871984/231853364-3b98e2f6-f589-4bda-9e1e-f871023d6cfc.gif)
+![SPAUniverse](https://user-images.githubusercontent.com/119871984/231864443-7000f196-15f6-4974-823c-d1848dde4172.gif)
+
 
 ## How to run the application  
 
